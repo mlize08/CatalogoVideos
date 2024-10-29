@@ -4,6 +4,10 @@ body{
     
 }
 
+header{
+    font-family: "Chakra Petch", sans-serif;
+}
+
 section{
     background-color: rgb(74, 10, 142);
     padding-bottom: 5%;
