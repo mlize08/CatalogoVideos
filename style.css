@@ -22,7 +22,7 @@ section{
 
 }
 
-.catalogo-videos{
+.categorias-videos{
     display: flex;
     overflow-x: auto;
     gap:10px;
