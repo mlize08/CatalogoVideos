@@ -1,16 +1,17 @@
 body{ 
-    background-color: black;
-    color: white;
+    background-color: #541e35;
+    color: #a4c972;
     
 }
 
 header{
     font-family: "Chakra Petch", sans-serif;
     font-size: 40px;
+    color:#df5d2e;
 }
 
 section{
-    background-color: rgb(74, 10, 142);
+    background-color: #ffb43e
     padding-bottom: 5%;
     padding-top: 5%;
     display: flex;
@@ -19,4 +20,11 @@ section{
 .texto{
     margin-right: 5%;
 
+}
+
+.catalogo-videos{
+    display: flex;
+    overflow-x: auto;
+    gap:10px;
+b   ackground: #6bb38e;
 }
