@@ -28,7 +28,7 @@ section{
     height: 200px;
 }
 
-categorias-videos img:hover {
+.categorias-videos img:hover {
     opacity: 1.0;
     border: 1px solid green;
 }
