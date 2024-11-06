@@ -1,6 +1,8 @@
 body{ 
     background-color: #541e35;
     color: #a4c972; 
+    margin: 0px;
+    margin-bottom: 100px;;
 }
 header{
     font-family: "Chakra Petch", sans-serif;
@@ -27,8 +29,15 @@ section{
     opacity: 0.5;
     height: 200px;
 }
-
 .categorias-videos img:hover {
     opacity: 1.0;
     border: 1px solid green;
+}
+.categoria h2{
+    color: rgb(42, 122, 228);
+}
+
+.categoria{
+    padding-left: 20px;
+    padding-right: 20px;
 }
